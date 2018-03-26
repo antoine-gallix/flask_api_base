@@ -1,0 +1,9 @@
+# application
+flask
+flask_json
+invoke
+pyyaml
+
+# test
+pytest
+pytest-flask

@@ -1,0 +1,6 @@
+.pytest_cache
+debug.log
+notes
+todo
+requirements_dev.txt
+__pycache__
